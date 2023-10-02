@@ -1,0 +1,8 @@
+C:\Users\Fatima\source\repos\Jan-TriviaGame\bin\Debug\Jan-TriviaGame.exe.config
+C:\Users\Fatima\source\repos\Jan-TriviaGame\bin\Debug\Jan-TriviaGame.exe
+C:\Users\Fatima\source\repos\Jan-TriviaGame\bin\Debug\Jan-TriviaGame.pdb
+C:\Users\Fatima\source\repos\Jan-TriviaGame\obj\Debug\Jan-TriviaGame.csproj.AssemblyReference.cache
+C:\Users\Fatima\source\repos\Jan-TriviaGame\obj\Debug\Jan-TriviaGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatima\source\repos\Jan-TriviaGame\obj\Debug\Jan-TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\Fatima\source\repos\Jan-TriviaGame\obj\Debug\Jan-TriviaGame.exe
+C:\Users\Fatima\source\repos\Jan-TriviaGame\obj\Debug\Jan-TriviaGame.pdb
